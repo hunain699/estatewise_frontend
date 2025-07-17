@@ -1,6 +1,6 @@
 // export const API_URL = "https://primerefferal-backend-production.up.railway.app/api";
 //export const API_URL = "http://localhost:5000/api";
-export const API_URL="https://estatewise-backend-hazel.vercel.app/"
+export const API_URL="https://estatewise-backend-hazel.vercel.app/api"
 
 export const API_UPLOAD = "https://primerefferal-backend-production.up.railway.app/uploads";
 
